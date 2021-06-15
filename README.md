@@ -6,5 +6,6 @@ backend engineer from math
 
 likes
 ```
-python, golang, k8s, proxmox, iot, ml/rl
+python, golang, flutter
+k8s, proxmox, iot, ml/rl
 ```
